@@ -1,4 +1,4 @@
-# Vuln Signal Layers
+# Vuln Representation Layers
 
 Layered representation study of vulnerability-fix signal recovery from MegaVul function-pair code changes.
 
