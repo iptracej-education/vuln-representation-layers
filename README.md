@@ -1,4 +1,4 @@
-# Vuln Representation Layers
+# Patch-Delta-Guided Representation Layers
 
 Layered representation study of vulnerability-fix signal recovery from MegaVul function-pair code changes.
 
